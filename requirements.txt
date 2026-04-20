@@ -2,12 +2,5 @@ fastapi
 uvicorn
 sqlalchemy
 python-dotenv
-
-PyQt5
-PyQtWebEngine
-
 requests
-marked
-jsPDF
-
 phi
