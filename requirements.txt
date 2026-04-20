@@ -2,5 +2,5 @@ fastapi
 uvicorn
 sqlalchemy
 python-dotenv
+groq
 requests
-phi
